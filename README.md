@@ -27,4 +27,20 @@
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
