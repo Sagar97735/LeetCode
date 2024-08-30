@@ -7,10 +7,12 @@
 | [0206-reverse-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
