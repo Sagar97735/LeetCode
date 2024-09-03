@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
+| [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
