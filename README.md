@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
+| [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
+| [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sagar97735/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
