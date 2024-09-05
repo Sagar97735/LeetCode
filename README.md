@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
