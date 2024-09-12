@@ -55,12 +55,14 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -147,4 +149,12 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
