@@ -27,6 +27,7 @@
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sagar97735/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sagar97735/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sagar97735/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
