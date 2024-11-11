@@ -6,8 +6,8 @@ class Solution {
         }
         for(int i =1; i< dp.length; i++){
             for(int j = 0; j<i; j++){
-                if(nums[j]<nums[i] && (dp[j]+1)>dp[i]){
-                    dp[i] = dp[j]+1;
+                if(nums[j]<nums[i]){
+                    dp[i] = Math.max(dp[i],dp[j]+1);
                 }
             }
         }
