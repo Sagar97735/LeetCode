@@ -24,6 +24,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sagar97735/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -146,6 +148,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sagar97735/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sagar97735/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
