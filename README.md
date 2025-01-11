@@ -26,6 +26,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sagar97735/LeetCode/tree/master/0494-target-sum) |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -45,6 +46,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sagar97735/LeetCode/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -199,4 +201,8 @@
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sagar97735/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
