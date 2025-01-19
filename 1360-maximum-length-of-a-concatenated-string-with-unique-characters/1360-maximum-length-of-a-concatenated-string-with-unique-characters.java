@@ -1,44 +1,28 @@
-public class Solution {
+class Solution {
     public int maxLength(List<String> arr) {
-        return solve(0, arr, "", arr.size(), new HashMap<>());
+        return solve(0, arr, "");
     }
 
-    private boolean hasCommon(String s1, String s2) {
-        int[] arr = new int[26];
+    public int solve(int index, List<String> arr, String input) {
 
-        for (char ch : s1.toCharArray()) {
-            if (arr[ch - 'a'] > 0)
-                return true;
-            arr[ch - 'a']++;
+        if(index == arr.size()) {
+            if (isValid(input)) {
+                return input.length();
+            }
+            return 0;
         }
-
-        for (char ch : s2.toCharArray()) {
-            if (arr[ch - 'a'] > 0)
-                return true;
-        }
-
-        return false;
+        int take = solve(index+1, arr, input+arr.get(index));
+        int notTake = solve(index+1, arr, input);
+        return Math.max(take, notTake);
     }
 
-    private int solve(int idx, List<String> arr, String temp, int n, Map<String, Integer> memo) {
-        if (idx >= n)
-            return temp.length();
-
-        String key = temp + idx;
-        if (memo.containsKey(key))
-            return memo.get(key);
-
-        int include = 0;
-        int exclude = 0;
-        if (!hasCommon(arr.get(idx), temp)) {
-            temp += arr.get(idx);
-            include = solve(idx + 1, arr, temp, n, memo);
-            temp = temp.substring(0, temp.length() - arr.get(idx).length());
+    public boolean isValid(String s) {
+        int freq[] = new int[26];
+        for(int i = 0; i < s.length(); i++) {
+            int val = s.charAt(i) - 'a';
+            freq[val]++;
+            if(freq[val] > 1) return false;
         }
-        exclude = solve(idx + 1, arr, temp, n, memo);
-
-        int result = Math.max(include, exclude);
-        memo.put(key, result);
-        return result;
-    }
+        return true;
+    } 
 }
