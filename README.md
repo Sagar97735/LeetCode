@@ -34,6 +34,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sagar97735/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -60,6 +61,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Sagar97735/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Sagar97735/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sagar97735/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -136,6 +138,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
@@ -183,6 +186,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
