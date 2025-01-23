@@ -15,7 +15,7 @@ class Solution {
     return memo[n] = option1+option2;
     }
     public int climbStairs(int n) {
-        int [] memo = new int[46];
+        int [] memo = new int[n+1];
         Arrays.fill(memo,-1);
         int ans = solve(n,memo);
         return ans;
