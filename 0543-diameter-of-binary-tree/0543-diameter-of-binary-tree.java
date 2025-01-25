@@ -28,10 +28,10 @@ class Solution {
         }
         int ld = diameter(root.left);
         int rd = diameter(root.right);
-        int self =  height(root.left) + height(root.right) +1;
+        int self =  height(root.left) + height(root.right) ;
         return Math.max(Math.max(ld,rd),self) ;
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        return diameter(root)-1;
+        return diameter(root);
     }
 }
