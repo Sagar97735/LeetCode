@@ -81,6 +81,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sagar97735/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -90,6 +91,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sagar97735/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -100,6 +102,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sagar97735/LeetCode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Sagar97735/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sagar97735/LeetCode/tree/master/0322-coin-change) |
@@ -110,6 +113,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sagar97735/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
