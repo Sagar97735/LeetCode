@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
