@@ -101,6 +101,7 @@
 | [0101-symmetric-tree](https://github.com/Sagar97735/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Sagar97735/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sagar97735/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -113,6 +114,7 @@
 | [0100-same-tree](https://github.com/Sagar97735/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sagar97735/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Sagar97735/LeetCode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Sagar97735/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sagar97735/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
@@ -247,6 +249,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sagar97735/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
 ## Brainteaser
 |  |
@@ -275,4 +278,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0070-climbing-stairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sagar97735/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
