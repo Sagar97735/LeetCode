@@ -10,7 +10,6 @@ class Solution {
                 incans = Math.max(incans,countinc);
             }
             else{
-                incans = Math.max(incans,countinc);
                 countinc=1;
             }
         }
@@ -20,7 +19,6 @@ class Solution {
                  decans = Math.max(decans,countdec);
             }
             else{
-                decans = Math.max(decans,countdec);
                 countdec=1;
             }
         }
