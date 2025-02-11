@@ -179,6 +179,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sagar97735/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sagar97735/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Sagar97735/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Sagar97735/LeetCode/tree/master/3447-clear-digits) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sagar97735/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sagar97735/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Sagar97735/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -220,6 +222,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sagar97735/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sagar97735/LeetCode/tree/master/2470-removing-stars-from-a-string) |
