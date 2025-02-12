@@ -29,6 +29,7 @@
 | [0045-jump-game-ii](https://github.com/Sagar97735/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sagar97735/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Sagar97735/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sagar97735/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -64,6 +65,7 @@
 | [0055-jump-game](https://github.com/Sagar97735/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sagar97735/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sagar97735/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Sagar97735/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sagar97735/LeetCode/tree/master/0279-perfect-squares) |
