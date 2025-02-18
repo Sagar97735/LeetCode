@@ -11,7 +11,7 @@ class Solution {
             vis[curr] = true;
             for(int i =0; i<rooms.get(curr).size(); i++){
                 int a = rooms.get(curr).get(i);
-                if(vis[a]==false){
+                if(vis[a]==false && !q1.contains(curr)){
                     q1.add(a);
                     }
             }
