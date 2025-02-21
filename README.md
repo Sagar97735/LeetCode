@@ -73,6 +73,7 @@
 | [0045-jump-game-ii](https://github.com/Sagar97735/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sagar97735/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Sagar97735/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Sagar97735/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Sagar97735/LeetCode/tree/master/0118-pascals-triangle) |
@@ -296,6 +297,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sagar97735/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Sagar97735/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sagar97735/LeetCode/tree/master/0279-perfect-squares) |
@@ -374,4 +376,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sagar97735/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
