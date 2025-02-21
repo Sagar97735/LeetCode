@@ -30,6 +30,7 @@
 | [0045-jump-game-ii](https://github.com/Sagar97735/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sagar97735/LeetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Sagar97735/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Sagar97735/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sagar97735/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sagar97735/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@
 | [0053-maximum-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sagar97735/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sagar97735/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Sagar97735/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Sagar97735/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Sagar97735/LeetCode/tree/master/0118-pascals-triangle) |
@@ -246,6 +248,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sagar97735/LeetCode/tree/master/0063-unique-paths-ii) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
