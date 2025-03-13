@@ -41,6 +41,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sagar97735/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Sagar97735/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sagar97735/LeetCode/tree/master/0322-coin-change) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sagar97735/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Sagar97735/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -249,12 +251,14 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sagar97735/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -407,6 +411,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sagar97735/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
