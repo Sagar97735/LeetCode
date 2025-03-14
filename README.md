@@ -54,6 +54,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Sagar97735/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -325,6 +326,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Sagar97735/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagar97735/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
