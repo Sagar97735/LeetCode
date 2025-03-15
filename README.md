@@ -62,6 +62,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagar97735/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sagar97735/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sagar97735/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -122,6 +123,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sagar97735/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sagar97735/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sagar97735/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sagar97735/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sagar97735/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -399,6 +401,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sagar97735/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Sagar97735/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3643-zero-array-transformation-ii](https://github.com/Sagar97735/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
