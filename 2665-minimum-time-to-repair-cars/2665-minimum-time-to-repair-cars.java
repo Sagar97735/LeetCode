@@ -1,21 +1,13 @@
 class Solution {
-    public boolean ispossible(int[] ranks,long mid,long cars){
-       long c = 1;
+    public boolean ispossible(int[] ranks,long time,int cars){
+       long totalCars = 0;
        int i = 0;
-       long ans = 0;
        while(i<ranks.length){
-        int b = ranks[i];
-        if((b*c*c)<=mid){
-            c++;
-        }
-        else{
-            ans+=(c-1);
-            i++;
-            c=1;
-        }
-        if(ans>=cars){
+        totalCars += Math.sqrt(time/ranks[i]);
+        if(totalCars >= cars){
             return true;
         }
+        i++;
        }
        return false;
     }
