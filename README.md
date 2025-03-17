@@ -43,6 +43,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sagar97735/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sagar97735/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Sagar97735/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sagar97735/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sagar97735/LeetCode/tree/master/0198-house-robber) |
@@ -339,6 +340,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sagar97735/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sagar97735/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sagar97735/LeetCode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Sagar97735/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
