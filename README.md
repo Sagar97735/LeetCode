@@ -62,6 +62,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sagar97735/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1428-jump-game-iii](https://github.com/Sagar97735/LeetCode/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sagar97735/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -189,6 +190,7 @@
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Sagar97735/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Sagar97735/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1428-jump-game-iii](https://github.com/Sagar97735/LeetCode/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Sagar97735/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -208,6 +210,7 @@
 | [0801-is-graph-bipartite](https://github.com/Sagar97735/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Sagar97735/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
+| [1428-jump-game-iii](https://github.com/Sagar97735/LeetCode/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Sagar97735/LeetCode/tree/master/2662-check-knight-tour-configuration) |
