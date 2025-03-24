@@ -93,6 +93,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sagar97735/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Sagar97735/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sagar97735/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3430-count-days-without-meetings](https://github.com/Sagar97735/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sagar97735/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sagar97735/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sagar97735/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -293,6 +294,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3430-count-days-without-meetings](https://github.com/Sagar97735/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |
