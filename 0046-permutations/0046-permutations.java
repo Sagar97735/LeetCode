@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Solution {
-    public static void solve(List<List<Integer>> arr, List<Integer> arr1, int[] nums, int idx, boolean[] used) {
+    public static void solve(List<List<Integer>> arr, List<Integer> arr1, int[] nums, boolean[] used) {
         if (arr1.size() == nums.length) {
             arr.add(new ArrayList<>(arr1));
             return;
@@ -12,7 +12,7 @@ class Solution {
                 used[i] = true;
                 arr1.add(nums[i]);
 
-                solve(arr, arr1, nums, i, used); // Recursive call
+                solve(arr, arr1, nums, used); // Recursive call
 
                 // Backtrack
                 arr1.remove(arr1.size() - 1);
@@ -26,7 +26,7 @@ class Solution {
         List<List<Integer>> arr = new ArrayList<>();
         boolean[] used = new boolean[nums.length]; // Track used numbers
 
-        solve(arr, arr1, nums, 0, used);
+        solve(arr, arr1, nums, used);
         return arr;
     }
 }
