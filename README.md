@@ -90,6 +90,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sagar97735/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2662-check-knight-tour-configuration](https://github.com/Sagar97735/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Sagar97735/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Sagar97735/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sagar97735/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sagar97735/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -315,6 +316,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sagar97735/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sagar97735/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sagar97735/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Sagar97735/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -426,6 +428,7 @@
 | [0768-partition-labels](https://github.com/Sagar97735/LeetCode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sagar97735/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sagar97735/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
@@ -507,6 +510,7 @@
 | [0264-ugly-number-ii](https://github.com/Sagar97735/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sagar97735/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
 |  |
