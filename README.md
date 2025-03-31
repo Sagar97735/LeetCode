@@ -49,6 +49,7 @@
 | [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sagar97735/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sagar97735/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sagar97735/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sagar97735/LeetCode/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sagar97735/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -193,6 +194,7 @@
 | [0101-symmetric-tree](https://github.com/Sagar97735/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sagar97735/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sagar97735/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sagar97735/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -214,6 +216,7 @@
 | [0100-same-tree](https://github.com/Sagar97735/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sagar97735/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sagar97735/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sagar97735/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sagar97735/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sagar97735/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Sagar97735/LeetCode/tree/master/0279-perfect-squares) |
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sagar97735/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Sagar97735/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagar97735/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sagar97735/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -450,6 +454,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sagar97735/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sagar97735/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Sagar97735/LeetCode/tree/master/0801-is-graph-bipartite) |
