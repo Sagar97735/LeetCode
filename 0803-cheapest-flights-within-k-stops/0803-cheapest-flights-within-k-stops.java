@@ -32,7 +32,6 @@ class Solution {
 
         while (!queue.isEmpty() && level <= k) {
             int size = queue.size();
-            int[] tempDist = distance.clone();
             
             for (int i = 0; i < size; i++) {
                 int[] current = queue.poll();
@@ -41,14 +40,12 @@ class Solution {
                 for (Pair neighbor : adj.get(u)) {
                     int v = neighbor.city, cost = neighbor.cost;
                     
-                    if (tempDist[v] > d + cost) {
-                        tempDist[v] = d + cost;
+                    if (distance[v] > d + cost) {
+                        distance[v] = d + cost;
                         queue.offer(new int[]{v, d + cost});
                     }
                 }
             }
-            
-            distance = tempDist;
             level++;
         }
 
