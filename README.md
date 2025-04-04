@@ -193,6 +193,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sagar97735/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -215,6 +216,7 @@
 | [0801-is-graph-bipartite](https://github.com/Sagar97735/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Sagar97735/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1428-jump-game-iii](https://github.com/Sagar97735/LeetCode/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -241,6 +243,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Sagar97735/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1428-jump-game-iii](https://github.com/Sagar97735/LeetCode/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -259,6 +262,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sagar97735/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
@@ -273,6 +277,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Sagar97735/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0768-partition-labels](https://github.com/Sagar97735/LeetCode/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sagar97735/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
