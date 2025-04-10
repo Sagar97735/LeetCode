@@ -157,6 +157,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sagar97735/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sagar97735/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Sagar97735/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sagar97735/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sagar97735/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Sagar97735/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Sagar97735/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Sagar97735/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sagar97735/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
@@ -491,6 +493,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sagar97735/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sagar97735/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Sagar97735/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Number Theory
 |  |
 | ------- |
