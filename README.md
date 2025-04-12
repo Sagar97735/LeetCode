@@ -84,6 +84,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Sagar97735/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sagar97735/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -207,6 +208,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sagar97735/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sagar97735/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sagar97735/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2662-check-knight-tour-configuration](https://github.com/Sagar97735/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sagar97735/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -343,6 +346,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sagar97735/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sagar97735/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sagar97735/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Sagar97735/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sagar97735/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -534,6 +538,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sagar97735/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sagar97735/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sagar97735/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sagar97735/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sagar97735/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
@@ -590,6 +595,7 @@
 | [0210-course-schedule-ii](https://github.com/Sagar97735/LeetCode/tree/master/0210-course-schedule-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sagar97735/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sagar97735/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
 |  |
 | ------- |
