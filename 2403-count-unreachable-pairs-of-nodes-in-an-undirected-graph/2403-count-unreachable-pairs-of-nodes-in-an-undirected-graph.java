@@ -35,11 +35,13 @@ class Solution {
                 arr1.add(bfs(visit,arr,i));
             }
           }
-          long ans = 0;
-          long remaining = n;
-        for (int size : arr1) {
-            remaining -= size;
-            ans += (long) size * remaining;
+          long ans = 0; long sum = 0;
+          for(int i=0; i<arr1.size(); i++){
+            sum += arr1.get(i);
+          }
+        for(int i=0; i<arr1.size(); i++){
+            sum = sum - arr1.get(i);
+            ans += sum * arr1.get(i);
         }
           return ans;
     }
