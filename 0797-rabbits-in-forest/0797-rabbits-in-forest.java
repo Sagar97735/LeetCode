@@ -11,7 +11,7 @@ class Solution {
             int count = map.get(key);
             int groupSize = key + 1;
             // Number of groups needed (ceil(count / groupSize))
-            int groups = (count + groupSize - 1) / groupSize;
+            int groups = (int) Math.ceil((double) count / groupSize);
             res += groups * groupSize;
         }
 
