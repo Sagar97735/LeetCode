@@ -224,6 +224,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sagar97735/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sagar97735/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Depth-First Search
 |  |
@@ -255,6 +256,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sagar97735/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sagar97735/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sagar97735/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sagar97735/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sagar97735/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -289,6 +291,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sagar97735/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sagar97735/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sagar97735/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sagar97735/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sagar97735/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sagar97735/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -328,6 +331,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/Sagar97735/LeetCode/tree/master/1500-count-largest-group) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sagar97735/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sagar97735/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sagar97735/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -405,6 +409,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sagar97735/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sagar97735/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sagar97735/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
