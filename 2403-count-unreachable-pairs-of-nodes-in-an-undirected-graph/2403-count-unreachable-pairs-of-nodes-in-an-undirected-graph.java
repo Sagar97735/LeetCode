@@ -1,48 +1,44 @@
 class Solution {
-    public int bfs(boolean[] visit, List<List<Integer>> arr , int node){
-       Queue<Integer> q1 = new LinkedList<>();
-       q1.add(node);
-       int cnt = 0;
-       visit[node] = true;
-       while(!q1.isEmpty()){
-        int u = q1.poll();
-        cnt++;
-        for(int i =0; i<arr.get(u).size();i++){
-            int v = arr.get(u).get(i);
-            if(!visit[v]){
-                q1.add(v);
-                visit[v] = true;
-            }
+    public int find(int i, int [] parent){
+        if(i==parent[i]){
+            return i;
         }
-       }
-       return cnt;
+        return parent[i] = find(parent[i],parent);
+    }
+    public void union(int a, int b, int [] parent){
+        int a_parent = find(a,parent);
+        int b_parent = find(b,parent);
+        if(a_parent!=b_parent){
+            parent[a_parent] = b_parent;
+        }
     }
     public long countPairs(int n, int[][] edges) {
-        List<List<Integer>> arr = new ArrayList<>();
-        List<Integer> arr1 = new ArrayList<>();
-        for(int i =0; i<n; i++){
-            arr.add(new ArrayList<>());
+        int [] parent = new int[n];
+        for(int i=0; i<n; i++){
+            parent[i]=i;
         }
+        HashMap<Integer,Integer> h1 = new HashMap<>();
+        List<Integer> arr = new ArrayList<>();
         for(int i =0; i<edges.length; i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
-            arr.get(u).add(v);
-            arr.get(v).add(u);
+            int a = edges[i][0];
+            int b = edges[i][1];
+            union(a,b,parent);
         }
-         boolean [] visit = new boolean[n];
-          for(int i =0; i<n; i++){
-            if(!visit[i]){
-                arr1.add(bfs(visit,arr,i));
-            }
-          }
-          long ans = 0; long sum = 0;
-          for(int i=0; i<arr1.size(); i++){
-            sum += arr1.get(i);
-          }
-        for(int i=0; i<arr1.size(); i++){
-            sum = sum - arr1.get(i);
-            ans += sum * arr1.get(i);
+        for(int i =0; i<n; i++){
+          int node_parent = find(i,parent);
+          h1.put(node_parent,h1.getOrDefault(node_parent,0)+1);
         }
-          return ans;
+        long max = n;
+       for (Map.Entry<Integer, Integer> entry : h1.entrySet()) {
+            int a = entry.getValue();
+            arr.add(a);
+   }
+     long ans = 0;
+        for(int i =0; i<arr.size();i++){
+            max-=arr.get(i);
+            long a = arr.get(i)*max;
+            ans+=a;
+        }
+        return ans;
     }
 }
