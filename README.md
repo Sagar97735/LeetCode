@@ -69,6 +69,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/Sagar97735/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sagar97735/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -616,6 +617,7 @@
 | [0871-keys-and-rooms](https://github.com/Sagar97735/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Sagar97735/LeetCode/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Sagar97735/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sagar97735/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sagar97735/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sagar97735/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -666,6 +668,7 @@
 | [0264-ugly-number-ii](https://github.com/Sagar97735/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sagar97735/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -696,6 +699,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sagar97735/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Design
 |  |
