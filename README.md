@@ -64,6 +64,7 @@
 | [0518-coin-change-ii](https://github.com/Sagar97735/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagar97735/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Sagar97735/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0869-similar-string-groups](https://github.com/Sagar97735/LeetCode/tree/master/0869-similar-string-groups) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -170,6 +171,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sagar97735/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sagar97735/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/Sagar97735/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [0868-push-dominoes](https://github.com/Sagar97735/LeetCode/tree/master/0868-push-dominoes) |
