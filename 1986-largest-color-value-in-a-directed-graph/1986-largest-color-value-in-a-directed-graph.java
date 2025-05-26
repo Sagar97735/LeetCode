@@ -1,3 +1,58 @@
+// ------------------------------>using DFS<----------------------------------
+// class Solution {
+//     int max = 0;
+//     int ans = 0;
+
+//     public void isSolve(List<List<Integer>> arr, int curr, int parent, boolean[] visit, boolean[] inrec, int[] freq,
+//             String colors,String str) {
+//         if (visit[curr]) {
+//             if (inrec[curr]) {
+//                 ans = -1;
+//                 return;
+//             }
+//         }
+//         char c = colors.charAt(curr);
+//         str+=curr;
+//         freq[c - 'a']++;
+//         max = Math.max(max, freq[c - 'a']);
+//         visit[curr] = true;
+//         inrec[curr] = true;
+//         for (int i = 0; i < arr.get(curr).size(); i++) {
+//             int dest = arr.get(curr).get(i);
+//                 isSolve(arr, dest, curr, visit, inrec, freq, colors,str);
+//             } 
+        
+//         // System.out.println(str);
+//         freq[c - 'a']--;
+//         inrec[curr] = false;
+//         return;
+//     }
+    
+
+//     public int largestPathValue(String colors, int[][] edges) {
+//         List<List<Integer>> arr = new ArrayList<>();
+//         for (int i = 0; i < colors.length(); i++) {
+//             arr.add(new ArrayList<>());
+//         }
+//         for (int i = 0; i < edges.length; i++) {
+//             int u = edges[i][0];
+//             int v = edges[i][1];
+//             arr.get(u).add(v);
+//         }
+//         boolean[] visit = new boolean[colors.length()];
+//         boolean[] inrec = new boolean[colors.length()];
+//         int[] freq = new int[27];
+//         for (int i = 0; i < colors.length(); i++) {
+//             if (!visit[i]) {
+//                 isSolve(arr, i, -1, visit, inrec, freq, colors, "");
+//             }
+//         }
+//         if (ans == -1) {
+//             return ans;
+//         }
+//         return max;
+//     }
+// }
 class Solution {
     int max = 0;
     int ans = 0;
