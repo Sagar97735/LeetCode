@@ -174,6 +174,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sagar97735/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sagar97735/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0629-k-inverse-pairs-array](https://github.com/Sagar97735/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/Sagar97735/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
