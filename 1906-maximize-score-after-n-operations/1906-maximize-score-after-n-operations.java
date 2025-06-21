@@ -2,6 +2,8 @@ import java.util.*;
 
 class Solution {
     int n;
+    int[] nums;
+    int[][] gcdCache; // Precompute GCDs
     Map<String, Integer> memo = new HashMap<>();
 
     public int gcd(int a, int b) {
@@ -9,41 +11,40 @@ class Solution {
         return gcd(b, a % b);
     }
 
-    public int isSolve(int[] nums, boolean[] visit, int operation) {
-        StringBuilder keyBuilder = new StringBuilder();
-        for (boolean b : visit) keyBuilder.append(b ? '1' : '0');
-        keyBuilder.append("_").append(operation);
-        String key = keyBuilder.toString();
-
-        if (memo.containsKey(key)) {
-            return memo.get(key);
+    public int isSolve(int mask, int operation) {
+        if (memo.containsKey(mask + "," + operation)) {
+            return memo.get(mask + "," + operation);
         }
 
         int maxscore = 0;
         for (int i = 0; i < n - 1; i++) {
-            if (visit[i]) continue;
+            if ((mask & (1 << i)) != 0) continue; // already visited
             for (int j = i + 1; j < n; j++) {
-                if (visit[j]) continue;
+                if ((mask & (1 << j)) != 0) continue;
 
-                visit[i] = true;
-                visit[j] = true;
-
-                int currScore = operation * gcd(nums[i], nums[j]);
-                int remainingScore = isSolve(nums, visit, operation + 1);
+                int newMask = mask | (1 << i) | (1 << j);
+                int currScore = operation * gcdCache[i][j];
+                int remainingScore = isSolve(newMask, operation + 1);
                 maxscore = Math.max(maxscore, currScore + remainingScore);
-
-                visit[i] = false;
-                visit[j] = false;
             }
         }
 
-        memo.put(key, maxscore);
+        memo.put(mask + "," + operation, maxscore);
         return maxscore;
     }
 
     public int maxScore(int[] nums) {
-        n = nums.length;
-        boolean[] visit = new boolean[n];
-        return isSolve(nums, visit, 1);
+        this.n = nums.length;
+        this.nums = nums;
+        this.gcdCache = new int[n][n];
+
+        // Precompute all GCDs
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                gcdCache[i][j] = gcd(nums[i], nums[j]);
+            }
+        }
+
+        return isSolve(0, 1); // start with empty mask and operation 1
     }
 }
