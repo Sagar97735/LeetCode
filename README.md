@@ -89,6 +89,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sagar97735/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Sagar97735/LeetCode/tree/master/1656-count-good-triplets) |
+| [1758-distribute-repeating-integers](https://github.com/Sagar97735/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Sagar97735/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
@@ -189,6 +190,7 @@
 | [1511-count-number-of-teams](https://github.com/Sagar97735/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1758-distribute-repeating-integers](https://github.com/Sagar97735/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sagar97735/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sagar97735/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -554,6 +556,7 @@
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1758-distribute-repeating-integers](https://github.com/Sagar97735/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sagar97735/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -695,6 +698,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Sagar97735/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1758-distribute-repeating-integers](https://github.com/Sagar97735/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sagar97735/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sagar97735/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -792,5 +796,6 @@
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
+| [1758-distribute-repeating-integers](https://github.com/Sagar97735/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
