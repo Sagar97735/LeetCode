@@ -9,40 +9,47 @@
  * }
  */
 class Solution {
-    private int lengthOfLinkedList(ListNode head) {
-        int length = 0;
-        ListNode temp = head;
-        while (temp != null) {
-            temp = temp.next;
-            length++;
+    ListNode ans;
+    public ListNode reverse(ListNode head){
+        ListNode prev = head;
+        ListNode curr = head.next;
+        ListNode next;
+        while(curr!=null){
+           next = curr.next;
+           curr.next = prev;
+           prev = curr;
+           curr = next;
         }
-        return length;
+        ans = prev;
+        return head;
     }
-    
-    private ListNode reverseKGroup(ListNode head, int k, int length) {
-        if (length < k) {
-            return head;
-        }
-        
-        int count = 0;
-        ListNode prev = null, next = null, curr = head;
-        while (count < k && curr != null) {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-            count++;
-        }
-        
-        if (next != null) {
-            head.next = reverseKGroup(next, k, length - k);
-        }
-        
-        return prev;
-    }
-    
     public ListNode reverseKGroup(ListNode head, int k) {
-        int length = lengthOfLinkedList(head);
-        return reverseKGroup(head, k, length);
+        ListNode s1 = head;
+        int size = 0;
+        while(s1!=null){
+            size++;
+            s1= s1.next;
+        }
+        int j = 0;
+        ListNode curr = head;
+        ListNode newnode = new ListNode(0);
+        ListNode n1 = newnode;
+        while(j<(size/k)){
+            int i = 1;
+            ListNode curr1 = curr;
+            while(i<k){
+              curr1 = curr1.next;
+              i++;
+            }
+           ListNode next = curr1.next;
+           curr1.next = null;
+           ListNode temp = reverse(curr);
+           temp.next = next;
+           n1.next = ans;
+           n1 = temp;
+           curr = next;
+           j++;
+        }
+          return newnode.next;
     }
 }
