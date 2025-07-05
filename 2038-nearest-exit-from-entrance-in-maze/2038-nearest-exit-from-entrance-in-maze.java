@@ -25,42 +25,54 @@
     // }
 
 class Solution {
+    public class pair{
+        int x;
+        int y;
+        public pair(int x, int y){
+            this.x = x;
+            this.y = y;
+        }
+
+    }
     public int nearestExit(char[][] maze, int[] entrance) {
         int m = maze.length;
         int n = maze[0].length;
-        
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{entrance[0], entrance[1]});
-        maze[entrance[0]][entrance[1]] = '+'; // Mark as visited
-        int steps = 0;
-        
-        int[][] moves = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            
-            for (int s = 0; s < size; s++) {
-                int[] temp = queue.poll();
-                int x = temp[0], y = temp[1];
-                
-                if (!(x == entrance[0] && y == entrance[1]) &&
-                    (x == 0 || x == m - 1 || y == 0 || y == n - 1)) {
-                    return steps;
-                }
-                
-                for (int[] move : moves) {
-                    int newX = x + move[0];
-                    int newY = y + move[1];
-                    
-                    if (newX >= 0 && newX < m && newY >= 0 && newY < n && maze[newX][newY] != '+') {
-                        queue.offer(new int[]{newX, newY});
-                        maze[newX][newY] = '+'; // Mark as visited
-                    }
-                }
+        int step = 0;
+        Queue<pair> q1 = new LinkedList<>();
+        q1.add(new pair(entrance[0],entrance[1]));
+        while(!q1.isEmpty()){
+            int size = q1.size();
+            for(int i = 0; i<size; i++){
+            pair curr = q1.poll();
+            int newx = curr.x;
+            int newy = curr.y;
+            if ((newx == 0 || newx == m - 1 || newy == 0 || newy == n - 1) 
+    && !(newx == entrance[0] && newy == entrance[1])) {
+    return step;
+}
+
+            if(newx+1<m && maze[newx+1][newy]!='+' && !(newx+1==entrance[0] && newy ==entrance[1])){
+                q1.add((new pair(newx+1,newy)));
+                maze[newx+1][newy] = '+';
             }
-            steps++;
+            if(newx-1>=0 && maze[newx-1][newy]!='+' && !(newx-1==entrance[0] && newy ==entrance[1])){
+                q1.add((new pair(newx-1,newy)));
+                maze[newx-1][newy] = '+';
+            }
+            if(newy+1<n && maze[newx][newy+1]!='+' && !(newx==entrance[0] && newy+1 ==entrance[1])){
+                q1.add((new pair(newx,newy+1)));
+                maze[newx][newy+1] = '+';
+            }
+            if(newy-1>=0 && maze[newx][newy-1]!='+' && !(newx==entrance[0] && newy-1 ==entrance[1])){
+                q1.add((new pair(newx,newy-1)));
+                maze[newx][newy-1] = '+';
+            }
+             
+            }
+           
+
+             step = step+1;
         }
-        
         return -1;
     }
 }
