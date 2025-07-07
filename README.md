@@ -96,6 +96,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagar97735/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sagar97735/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sagar97735/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Sagar97735/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sagar97735/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -472,6 +473,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sagar97735/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sagar97735/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Sagar97735/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sagar97735/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -622,6 +624,7 @@
 | [0768-partition-labels](https://github.com/Sagar97735/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Sagar97735/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sagar97735/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sagar97735/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sagar97735/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -761,6 +764,7 @@
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sagar97735/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sagar97735/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
