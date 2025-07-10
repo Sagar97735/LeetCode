@@ -160,6 +160,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sagar97735/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sagar97735/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sagar97735/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sagar97735/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sagar97735/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
@@ -635,6 +636,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sagar97735/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagar97735/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sagar97735/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sagar97735/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
@@ -844,6 +846,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Sagar97735/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Sagar97735/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sagar97735/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sagar97735/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Merge Sort
 |  |
 | ------- |
