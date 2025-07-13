@@ -130,6 +130,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Sagar97735/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Sagar97735/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sagar97735/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sagar97735/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sagar97735/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Sagar97735/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -267,6 +268,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sagar97735/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sagar97735/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Sagar97735/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -497,6 +499,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sagar97735/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sagar97735/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/Sagar97735/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sagar97735/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -650,6 +653,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sagar97735/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sagar97735/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sagar97735/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sagar97735/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagar97735/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
