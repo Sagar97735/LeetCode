@@ -7,6 +7,7 @@ class Solution {
             if(map.containsKey(diff)){
                 arr[0] = map.get(diff);
                 arr[1] = i;
+                break;
             }
             map.put(nums[i], i);
         }
