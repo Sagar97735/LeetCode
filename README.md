@@ -91,6 +91,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sagar97735/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sagar97735/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sagar97735/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -321,6 +322,7 @@
 | [0922-possible-bipartition](https://github.com/Sagar97735/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sagar97735/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sagar97735/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/Sagar97735/LeetCode/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -468,6 +470,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sagar97735/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/Sagar97735/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sagar97735/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sagar97735/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -901,4 +904,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Sagar97735/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sagar97735/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
