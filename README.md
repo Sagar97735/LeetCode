@@ -172,6 +172,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sagar97735/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sagar97735/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagar97735/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sagar97735/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -786,6 +787,7 @@
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Sagar97735/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sagar97735/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sagar97735/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sagar97735/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
 | ------- |
@@ -879,6 +881,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Sagar97735/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sagar97735/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sagar97735/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Enumeration
 |  |
 | ------- |
@@ -888,6 +891,7 @@
 | [2998-count-symmetric-integers](https://github.com/Sagar97735/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sagar97735/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sagar97735/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sagar97735/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
