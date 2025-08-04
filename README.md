@@ -86,6 +86,7 @@
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Sagar97735/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sagar97735/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Sagar97735/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Sagar97735/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
@@ -248,6 +249,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sagar97735/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sagar97735/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0940-fruit-into-baskets](https://github.com/Sagar97735/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sagar97735/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sagar97735/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sagar97735/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -423,6 +425,7 @@
 | [0797-rabbits-in-forest](https://github.com/Sagar97735/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0869-similar-string-groups](https://github.com/Sagar97735/LeetCode/tree/master/0869-similar-string-groups) |
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/Sagar97735/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sagar97735/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
