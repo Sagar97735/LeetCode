@@ -21,6 +21,7 @@ class Solution {
         }
 
         int k = sortedCapacities.size();
+        
         List<Integer> initialMinIndices = new ArrayList<>();
         for (int capacity : sortedCapacities) {
             initialMinIndices.add(capacityMap.get(capacity).peek());
