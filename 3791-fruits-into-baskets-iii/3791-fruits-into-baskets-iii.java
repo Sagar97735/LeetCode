@@ -1,105 +1,50 @@
-import java.util.*;
-
 class Solution {
-    private int[][] segTree;
-    private final int INF = Integer.MAX_VALUE;
-
-    public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
-        TreeMap<Integer, Queue<Integer>> capacityMap = new TreeMap<>();
-        for (int i = 0; i < baskets.length; i++) {
-            capacityMap.computeIfAbsent(baskets[i], k -> new LinkedList<>()).add(i);
-        }
-
-        if (capacityMap.isEmpty()) {
-            return fruits.length;
-        }
-
-        List<Integer> sortedCapacities = new ArrayList<>(capacityMap.keySet());
-        Map<Integer, Integer> capacityToSortedIndex = new HashMap<>();
-        for (int i = 0; i < sortedCapacities.size(); i++) {
-            capacityToSortedIndex.put(sortedCapacities.get(i), i);
-        }
-
-        int k = sortedCapacities.size();
-        
-        List<Integer> initialMinIndices = new ArrayList<>();
-        for (int capacity : sortedCapacities) {
-            initialMinIndices.add(capacityMap.get(capacity).peek());
-        }
-
-        segTree = new int[4 * k][2];
-        build(1, 0, k - 1, initialMinIndices);
-
-        int unplacedCount = 0;
-        
-        for (int fruit : fruits) {
-            int insertionPoint = Collections.binarySearch(sortedCapacities, fruit);
-            if (insertionPoint < 0) {
-                insertionPoint = -insertionPoint - 1;
-            }
-
-            if (insertionPoint == k) {
-                unplacedCount++;
-                continue;
-            }
-
-            int[] result = query(1, 0, k - 1, insertionPoint, k - 1);
-            int bestBasketIndex = result[0];
-            int bestCapacitySortedIndex = result[1];
-
-            if (bestBasketIndex == INF) {
-                unplacedCount++;
-            } else {
-                int usedCapacity = sortedCapacities.get(bestCapacitySortedIndex);
-                Queue<Integer> indexQueue = capacityMap.get(usedCapacity);
-                indexQueue.poll();
-
-                int nextMinIndex = indexQueue.isEmpty() ? INF : indexQueue.peek();
-                update(1, 0, k - 1, bestCapacitySortedIndex, nextMinIndex);
-            }
-        }
-        return unplacedCount;
-    }
-
-    private int[] minPair(int[] p1, int[] p2) {
-        return p1[0] <= p2[0] ? p1 : p2;
-    }
-
-    private void build(int node, int start, int end, List<Integer> initialValues) {
-        if (start == end) {
-            segTree[node] = new int[]{initialValues.get(start), start};
+    public void build(int idx, int l, int r, int[] arr, int[] tree) {
+        if (l == r) {
+            tree[idx] = arr[l];
             return;
         }
-        int mid = start + (end - start) / 2;
-        build(2 * node, start, mid, initialValues);
-        build(2 * node + 1, mid + 1, end, initialValues);
-        segTree[node] = minPair(segTree[2 * node], segTree[2 * node + 1]);
+
+        int mid = (l + r) / 2;
+        build(2 * idx + 1, l, mid, arr, tree);
+        build(2 * idx + 2, mid + 1, r, arr, tree);
+
+        tree[idx] = Math.max(tree[2 * idx + 1], tree[2 * idx + 2]);
     }
 
-    private void update(int node, int start, int end, int idx, int val) {
-        if (start == end) {
-            segTree[node][0] = val;
-            return;
+    public boolean place(int idx, int l, int r, int[] tree, int val) {
+        if (tree[idx] < val) return false;
+
+        if (l == r) {
+            tree[idx] = -1; // use basket
+            return true;
         }
-        int mid = start + (end - start) / 2;
-        if (start <= idx && idx <= mid) {
-            update(2 * node, start, mid, idx, val);
+
+        int mid = (l + r) / 2;
+        boolean used;
+
+        if (tree[2 * idx + 1] >= val) {
+            used = place(2 * idx + 1, l, mid, tree, val);
         } else {
-            update(2 * node + 1, mid + 1, end, idx, val);
+            used = place(2 * idx + 2, mid + 1, r, tree, val);
         }
-        segTree[node] = minPair(segTree[2 * node], segTree[2 * node + 1]);
-    }
 
-    private int[] query(int node, int start, int end, int l, int r) {
-        if (r < start || end < l) {
-            return new int[]{INF, -1};
+        tree[idx] = Math.max(tree[2 * idx + 1], tree[2 * idx + 2]);
+        return used;
+    }
+    public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
+        int n = fruits.length;
+        int[] tree = new int[4 * n];
+
+        build(0, 0, n - 1, baskets, tree);
+
+        int unplaced = 0;
+        for (int fruit : fruits) {
+            if (!place(0, 0, n - 1, tree, fruit)) {
+                unplaced++;
+            }
         }
-        if (l <= start && end <= r) {
-            return segTree[node];
-        }
-        int mid = start + (end - start) / 2;
-        int[] p1 = query(2 * node, start, mid, l, r);
-        int[] p2 = query(2 * node + 1, mid + 1, end, l, r);
-        return minPair(p1, p2);
+
+        return unplaced;
     }
 }
