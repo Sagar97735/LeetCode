@@ -1,7 +1,7 @@
 class Solution {
     public double soupServings(int n) {
         if (n == 0) return 0.5;               // both empty immediately
-        if (n >= 4800) return 1.0;           // heuristic: probability -> 1 for large n
+        if (n >= 4500) return 1.0;           // heuristic: probability -> 1 for large n
 
         int N = (n + 24) / 25;               // ceil(n/25)
         Double[][] memo = new Double[N + 1][N + 1];
