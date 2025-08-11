@@ -3,7 +3,7 @@ class Solution {
         int MOD = 1_000_000_007;
 
         // Step 1: powers array banate hain
-        java.util.List<Integer> powers = new java.util.ArrayList<>();
+        List<Integer> powers = new ArrayList<>();
         for (int i = 0; i < 31; i++) {
             if ((n & (1 << i)) != 0) {
                 powers.add(1 << i);
