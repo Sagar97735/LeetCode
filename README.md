@@ -143,6 +143,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sagar97735/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sagar97735/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sagar97735/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/Sagar97735/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/Sagar97735/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sagar97735/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -685,6 +686,7 @@
 | [2478-longest-nice-subarray](https://github.com/Sagar97735/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sagar97735/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sagar97735/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Sagar97735/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sagar97735/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sagar97735/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sagar97735/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -821,6 +823,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sagar97735/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sagar97735/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Sagar97735/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sagar97735/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Sagar97735/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sagar97735/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
