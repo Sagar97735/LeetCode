@@ -975,4 +975,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Sagar97735/LeetCode/tree/master/0826-soup-servings) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sagar97735/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
