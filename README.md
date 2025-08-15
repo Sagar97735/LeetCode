@@ -26,6 +26,7 @@
 | [0231-power-of-two](https://github.com/Sagar97735/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sagar97735/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sagar97735/LeetCode/tree/master/0342-power-of-four) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Sagar97735/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sagar97735/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
@@ -674,6 +675,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sagar97735/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sagar97735/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Sagar97735/LeetCode/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sagar97735/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sagar97735/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
@@ -724,6 +726,7 @@
 | [0264-ugly-number-ii](https://github.com/Sagar97735/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sagar97735/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Sagar97735/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sagar97735/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Sagar97735/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Sagar97735/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Sagar97735/LeetCode/tree/master/0826-soup-servings) |
