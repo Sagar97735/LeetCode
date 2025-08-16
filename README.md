@@ -705,6 +705,7 @@
 | [0768-partition-labels](https://github.com/Sagar97735/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Sagar97735/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sagar97735/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/Sagar97735/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sagar97735/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sagar97735/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -734,6 +735,7 @@
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sagar97735/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sagar97735/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Sagar97735/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Sagar97735/LeetCode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sagar97735/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
