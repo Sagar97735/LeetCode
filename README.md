@@ -81,6 +81,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sagar97735/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0679-24-game](https://github.com/Sagar97735/LeetCode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sagar97735/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/Sagar97735/LeetCode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -729,6 +730,7 @@
 | [0326-power-of-three](https://github.com/Sagar97735/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sagar97735/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Sagar97735/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Sagar97735/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Sagar97735/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Sagar97735/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Sagar97735/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -847,6 +849,7 @@
 | [0047-permutations-ii](https://github.com/Sagar97735/LeetCode/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/Sagar97735/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Sagar97735/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Sagar97735/LeetCode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sagar97735/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sagar97735/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
