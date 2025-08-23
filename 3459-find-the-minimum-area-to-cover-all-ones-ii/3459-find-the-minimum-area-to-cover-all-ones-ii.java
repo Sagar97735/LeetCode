@@ -1,51 +1,63 @@
 class Solution {
     public int minimumSum(int[][] grid) {
-        int n=grid.length;
-        int m=grid[0].length;
-        return cal(grid,3,0,n-1,0,m-1);
+        int rows = grid.length;
+        int cols = grid[0].length;
+        return divideGrid(grid, 3, 0, rows - 1, 0, cols - 1);
     }
-    int cal(int[][] grid,int parts,int u,int d,int l,int r){
-        if(u>d||l>r)return 0;
-        if(parts==1){
-            return minRect(grid,u,d,l,r);
+
+    // divideGrid: current grid ko "parts" (kitne rectangles chahiye) me todta hai
+    int divideGrid(int[][] grid, int parts, int top, int bottom, int left, int right) {
+        if (top > bottom || left > right) return 0;
+
+        // Base case: agar sirf 1 rectangle chahiye, to rectangle ka minimum area nikal lo
+        if (parts == 1) {
+            return minRectangleArea(grid, top, bottom, left, right);
         }
-        // horizontal
-        int ans=10000000;
-        for(int i=u;i<=d;i++){
-            for(int x=1;x<parts;x++){
-                ans=Math.min(ans,cal(grid,x,u,i,l,r)+cal(grid,parts-x,i+1,d,l,r));
+
+        int ans = Integer.MAX_VALUE;
+
+        // 1️⃣ Horizontal cuts (row ke basis par todna)
+        for (int cutRow = top; cutRow <= bottom; cutRow++) {
+            for (int firstPart = 1; firstPart < parts; firstPart++) {
+                ans = Math.min(ans,
+                        divideGrid(grid, firstPart, top, cutRow, left, right) +
+                        divideGrid(grid, parts - firstPart, cutRow + 1, bottom, left, right));
             }
         }
-        // vertical
-        for(int i=l;i<=r;i++){
-            for(int x=1;x<parts;x++){
-                ans=Math.min(ans,cal(grid,x,u,d,l,i)+cal(grid,parts-x,u,d,i+1,r));
+
+        // 2️⃣ Vertical cuts (column ke basis par todna)
+        for (int cutCol = left; cutCol <= right; cutCol++) {
+            for (int firstPart = 1; firstPart < parts; firstPart++) {
+                ans = Math.min(ans,
+                        divideGrid(grid, firstPart, top, bottom, left, cutCol) +
+                        divideGrid(grid, parts - firstPart, top, bottom, cutCol + 1, right));
             }
         }
+
         return ans;
     }
-    int minRect(int[][] grid,int u,int d,int l,int r){
-        int xl=r;
-        int xr=l;
-        int yu=d;
-        int yd=u;
-        boolean found=false;
-        for(int i=u;i<=d;i++){
-            for(int j=l;j<=r;j++){
-                if(grid[i][j]==1){
-                    found=true;
-                    xl=Math.min(xl,j);
-                    xr=Math.max(xr,j);
-                    yu=Math.min(yu,i);
-                    yd=Math.max(yd,i);
+
+    // minRectangleArea: ek rectangle ka minimum bounding area return karta hai
+    int minRectangleArea(int[][] grid, int top, int bottom, int left, int right) {
+        int minCol = right;
+        int maxCol = left;
+        int minRow = bottom;
+        int maxRow = top;
+        boolean foundOne = false;
+
+        for (int r = top; r <= bottom; r++) {
+            for (int c = left; c <= right; c++) {
+                if (grid[r][c] == 1) {
+                    foundOne = true;
+                    minCol = Math.min(minCol, c);
+                    maxCol = Math.max(maxCol, c);
+                    minRow = Math.min(minRow, r);
+                    maxRow = Math.max(maxRow, r);
                 }
             }
         }
-        if(!found)return 0;
-        return (xr-xl+1)*(yd-yu+1);
+
+        if (!foundOne) return 0; // agar 1 hi nahi mila, area = 0
+        return (maxCol - minCol + 1) * (maxRow - minRow + 1);
     }
 }
-// 000
-// 000
-// 001
-// 110
