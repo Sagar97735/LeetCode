@@ -1,31 +1,25 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int max = 0;
-        int max1 =0;
-        int j = 0;
-        int i = 0;
-        int maxzero = 0;
-        int zero = 0;
-        while(j<nums.length && i<nums.length){
-            if(nums[j]==0){
-                zero++;
+        int left = 0, zeroCount = 0, maxLen = 0;
+
+        for (int right = 0; right < nums.length; right++) {
+            if (nums[right] == 0) {
+                zeroCount++;
             }
-            maxzero = Math.max(zero,maxzero);
-            if(zero ==0 || zero==1){
-                max+=nums[j];
-                j++;
-                max1 = Math.max(max,max1);
+
+            // agar 1 se zyada zero ho gaye to shrink karo
+            while (zeroCount > 1) {
+                if (nums[left] == 0) {
+                    zeroCount--;
                 }
-            if(zero>1){
-                zero = 0;
-                max = 0;
-                i++;
-                j = i;
+                left++;
             }
+
+            // window ka length calculate
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-       if(maxzero==0){
-        return max1-1;
-       }
-        return max1;
+
+        // ek element delete karna mandatory hai
+        return maxLen - 1;
     }
 }
