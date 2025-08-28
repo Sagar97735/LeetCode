@@ -1,29 +1,43 @@
+import java.util.*;
+
 class Solution {
-    public void solve(int[][] grid){
-        for(int i =grid.length-1; i>=0; i--){
-            for(int j =grid.length-1; j>=0; j--){
-                if(i==j || i>j){
-                    if(i!=0 &&j!=0 && grid[i-1][j-1]<grid[i][j]){
-                        int a = grid[i][j];
-                        grid[i][j] = grid[i-1][j-1];
-                        grid[i-1][j-1]=a;
-                    }
-                }
-                if(i<j && i!=0 && j!=0){
-                     if(grid[i-1][j-1]>grid[i][j]){
-                        int a = grid[i][j];
-                        grid[i][j] = grid[i-1][j-1];
-                        grid[i-1][j-1]=a;
-                    }
-                }
-            }
-        }
-        return;
-    }
     public int[][] sortMatrix(int[][] grid) {
-        for(int i =0; i<grid.length-1; i++){
-            solve(grid);
+        int n = grid.length;
+
+        // bottom-left diagonals (including main diagonal)
+        for (int i = 0; i < n; i++) {
+            processDiagonal(grid, i, 0, false); // descending
         }
+
+        // top-right diagonals
+        for (int j = 1; j < n; j++) {
+            processDiagonal(grid, 0, j, true); // ascending
+        }
+
         return grid;
     }
+
+    private void processDiagonal(int[][] grid, int row, int col, boolean ascending) {
+        int n = grid.length;
+        List<Integer> diag = new ArrayList<>();
+
+        // collect
+        int i = row, j = col;
+        while (i < n && j < n) {
+            diag.add(grid[i][j]);
+            i++; j++;
+        }
+
+        // sort
+        if (ascending) Collections.sort(diag);
+        else diag.sort(Collections.reverseOrder());
+
+        // put back
+        i = row; j = col;
+        for (int val : diag) {
+            grid[i][j] = val;
+            i++; j++;
+        }
+    }
 }
+
