@@ -1,31 +1,30 @@
 class Solution {
     public int numberOfPairs(int[][] points) {
         int n = points.length;
-        int ans = 0;
-
+        Arrays.sort(points, (point1, point2) -> {
+            if (point1[0] == point2[0]) {
+                return Integer.signum(point2[1] - point1[1]);
+            } else {
+                return Integer.signum(point1[0] - point2[0]);
+            }
+        });
+        int countOfPairs = 0;
         for (int i = 0; i < n; i++) {
-            int xi = points[i][0], yi = points[i][1];
-            for (int j = 0; j < n; j++) {
-                if (i == j) continue;
-                int xj = points[j][0], yj = points[j][1];
-
-                // allow equality on x or y (line cases included)
-                if (xi <= xj && yi >= yj) {
-                    boolean ok = true;
-                    for (int k = 0; k < n; k++) {
-                        if (k == i || k == j) continue;
-                        int xk = points[k][0], yk = points[k][1];
-
-                        // any point inside or on border invalidates the pair
-                        if (xi <= xk && xk <= xj && yj <= yk && yk <= yi) {
-                            ok = false;
-                            break;
-                        }
-                    }
-                    if (ok) ans++;
-                }
+            int upperY = points[i][1];
+            int leftX = points[i][0];
+            int lowerY = -50;
+            for (int j = i + 1; j < n; j++) {
+                if (points[j][1] > upperY)
+                    continue;
+                if (points[j][0] < leftX)
+                    continue;
+                if (points[j][1] <= lowerY)
+                    continue;
+                countOfPairs++;
+                lowerY = points[j][1];
+                leftX = points[j][0] + 1;
             }
         }
-        return ans;
+        return countOfPairs;
     }
 }
