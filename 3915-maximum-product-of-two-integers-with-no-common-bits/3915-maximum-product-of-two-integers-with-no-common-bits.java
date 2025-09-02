@@ -1,35 +1,44 @@
 class Solution {
     public long maxProduct(int[] nums) {
-        // find the max val from the array
-        int maxVal = 0;
-        for(int num:nums) 
-            maxVal = Math.max(maxVal, num);
-        
-        // find the maxBits reqd to represent the max_val and the mask we need. The mask is actually all maxBits no.of bits set to 1 
-        int maxBits = (int)(Math.log(maxVal)/Math.log(2)) + 1, mask = (1<<maxBits) - 1;
+        // Step 1: Find the maximum value in nums
+        int maxValue = 0;
+        for (int num : nums) {
+            maxValue = Math.max(maxValue, num);
+        }
 
-        // create the submask dp array which will always contain the maxm value of nums satisfying the bit pattern for the mask
-        int maskDp[] = new int[mask+1];
+         int totalBits = Integer.toBinaryString(maxValue).length();
 
-        // For ex: we have 34 in our array, we need to initially set dp[34] to 34
-        for(int num:nums) 
-            maskDp[num] = num;
+        // Create a mask with all totalBits set to 1
+        // Example: if totalBits = 5 → mask = 11111 (binary) = 31
+        int fullMask = (1 << totalBits) - 1;
 
-        // Actual logic
-        for(int i=0; i<maxBits; ++i) {
-            for(int j=1, tempMask = (1<<i); j<=mask; ++j) {
-                if((j & tempMask) != 0) {   
-                    // If our submask is 105, then this would be executed for dp[104, 97,73,41] and dp[105]
-                    maskDp[j] = Math.max(maskDp[j], maskDp[tempMask ^ j]);
+        // Step 3: DP array where dp[mask] stores the maximum number in nums
+        // that has a bit pattern matching 'mask' (or its submasks later).
+        int[] dp = new int[fullMask + 1];
+
+        // Initialize dp with the exact numbers present in nums
+        for (int num : nums) {
+            dp[num] = Math.max(dp[num], num);
+        }
+
+        // Step 4: Fill dp so that dp[mask] contains the maximum value
+        // among all numbers that are submasks of 'mask'
+        for (int bit = 0; bit < totalBits; bit++) {
+            int bitMask = 1 << bit;
+            for (int mask = 1; mask <= fullMask; mask++) {
+                if ((mask & bitMask) != 0) {
+                    dp[mask] = Math.max(dp[mask], dp[mask ^ bitMask]);
                 }
             }
         }
 
-        // finding the maxm pdt pair
-        long maxPdt = 0;
-        for(int num:nums) 
-            maxPdt = Math.max(maxPdt, (long)num * maskDp[num ^ mask]);
+        // Step 5: Find the maximum product
+        long maxProduct = 0;
+        for (int num : nums) {
+            // num ^ fullMask = complement bits (within totalBits)
+            maxProduct = Math.max(maxProduct, (long) num * dp[num ^ fullMask]);
+        }
 
-        return maxPdt;
+        return maxProduct;
     }
 }
