@@ -28,3 +28,45 @@ class Solution {
         return countOfPairs;
     }
 }
+
+//--------------------------------------------C++---------------------------------------------------------------------------------
+// #include <vector>
+// #include <algorithm>
+// using namespace std;
+
+// class Solution {
+// public:
+//     int numberOfPairs(vector<vector<int>>& points) {
+//         int n = points.size();
+
+//         // Step 1: Sort by x ascending, y descending
+//         sort(points.begin(), points.end(), [](const vector<int>& a, const vector<int>& b) {
+//             if (a[0] != b[0]) return a[0] < b[0];
+//             return a[1] > b[1];
+//         });
+
+//         int count = 0;
+
+//         // Step 2: Fix each point as upper-left
+//         for (int i = 0; i < n; i++) {
+//             int upperY = points[i][1];
+//             int leftX = points[i][0];
+//             int lowerY = -1;
+
+//             // Step 3: Scan right side points
+//             for (int j = i + 1; j < n; j++) {
+//                 int xj = points[j][0], yj = points[j][1];
+
+//                 if (yj > upperY) continue;
+//                 if (xj < leftX) continue;
+//                 if (yj <= lowerY) continue;
+
+//                 count++;
+//                 lowerY = yj;
+//                 leftX = xj + 1;
+//             }
+//         }
+
+//         return count;
+//     }
+// };
