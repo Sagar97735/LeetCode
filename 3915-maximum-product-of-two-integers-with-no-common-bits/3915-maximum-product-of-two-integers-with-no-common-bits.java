@@ -20,10 +20,10 @@ class Solution {
 
         // Step 5: Propagate values to subsets
         for (int bit = 0; bit < totalBits; bit++) {
-            for (int bitmask = 0; bitmask < size; bitmask++) {
-                if ((bitmask & (1 << bit)) != 0) {
-                    int smallerMask = bitmask ^ (1 << bit);
-                    dp[bitmask] = Math.max(dp[bitmask], dp[smallerMask]);
+            for (int val = 0; val < size; val++) {
+                if ((val & (1 << bit)) != 0) {
+                    int smallerMask = val ^ (1 << bit);
+                    dp[val] = Math.max(dp[val], dp[smallerMask]);
                 }
             }
         }
