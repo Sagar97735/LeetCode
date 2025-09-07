@@ -18,3 +18,26 @@ class Solution {
         return cnt;
     }
 }
+
+//---------------------------------------------Brute Force---------------------------------------------------------------------
+class Solution {
+    public long bowlSubarrays(int[] nums) {
+        long cnt = 0;
+        int n = nums.length;
+        for (int i = 0; i < nums.length; i++) {
+            long min = nums[i];
+            long max = 0;
+            for (int j = i + 1; j < n; j++) {
+                if (j - i + 1 >= 3) {
+                    max = Math.max(max, nums[j - 1]);
+                    min = Math.min(nums[i], nums[j]);
+                    if (min > max) {
+                        cnt++;
+                    }
+                }
+            }
+
+        }
+        return cnt;
+    }
+}
