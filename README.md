@@ -260,6 +260,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sagar97735/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sagar97735/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sagar97735/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Sagar97735/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sagar97735/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Sagar97735/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagar97735/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -647,6 +648,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sagar97735/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sagar97735/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sagar97735/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Sagar97735/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sagar97735/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -662,6 +664,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sagar97735/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Sagar97735/LeetCode/tree/master/0649-dota2-senate) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Sagar97735/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sagar97735/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sagar97735/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
