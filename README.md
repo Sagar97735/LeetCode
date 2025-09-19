@@ -201,6 +201,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sagar97735/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sagar97735/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sagar97735/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Sagar97735/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -493,6 +494,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sagar97735/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sagar97735/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagar97735/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Sagar97735/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -544,6 +546,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sagar97735/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sagar97735/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3797-design-spreadsheet](https://github.com/Sagar97735/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -644,6 +647,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sagar97735/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sagar97735/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Sagar97735/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Sagar97735/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -957,6 +961,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sagar97735/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3797-design-spreadsheet](https://github.com/Sagar97735/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
