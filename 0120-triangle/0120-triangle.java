@@ -1,26 +1,22 @@
 class Solution {
-     public int isSolve(List<List<Integer>>arr,int curr,int i,int[][] dp){
-        if(i==arr.size()-1){
-            return 0;
-        }
-        if(dp[curr][i]!=-1){
-            return dp[curr][i];
-        }
-      int choice1 = arr.get(i+1).get(curr) + isSolve(arr,curr,i+1,dp);
-      int choice2 = arr.get(i+1).get(curr+1)+ isSolve(arr,curr+1,i+1,dp);
-       return dp[curr][i] = Math.min(choice1,choice2); 
-    }
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
-         if (n == 1) {
-        return triangle.get(0).get(0);
-    }
-        int [][] dp = new int[triangle.get(triangle.size()-1).size()+1][triangle.size()+1];
-         for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        // dp array last row se start hoga
+        int[] dp = new int[n];
+        
+        // dp ko last row ke values se initialize karo
+        for (int i = 0; i < n; i++) {
+            dp[i] = triangle.get(n - 1).get(i);
         }
-        isSolve(triangle,0,0,dp);
-        return dp[0][0] + triangle.get(0).get(0);
-       
+
+        // bottom-up: second-last row se upar jao
+        for (int row = n - 2; row >= 0; row--) {
+            for (int col = 0; col <= row; col++) {
+                dp[col] = triangle.get(row).get(col) + Math.min(dp[col], dp[col + 1]);
+            }
+        }
+
+        // top element minimum total hoga
+        return dp[0];
     }
 }
