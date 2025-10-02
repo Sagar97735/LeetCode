@@ -683,6 +683,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Sagar97735/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/Sagar97735/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sagar97735/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Sagar97735/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/Sagar97735/LeetCode/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sagar97735/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
@@ -829,6 +830,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sagar97735/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sagar97735/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Sagar97735/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/Sagar97735/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sagar97735/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sagar97735/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
