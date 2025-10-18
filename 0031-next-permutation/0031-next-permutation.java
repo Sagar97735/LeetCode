@@ -13,7 +13,7 @@ class Solution {
         }
     
         for(int j=nums.length-1; j>idx; j--){
-            if(nums[idx] < nums[j]){
+            if(nums[idx] < nums[j]){      //swap with just greater element00
                 int temp = nums[idx];
                 nums[idx] = nums[j];
                 nums[j] = temp;
