@@ -1,27 +1,34 @@
 class Solution {
     public int[] findXSum(int[] nums, int k, int x) {
-        int[] freq = new int[51];
-        for (int i = 0; i < k; i++) freq[nums[i]]++;
-        int[] ans = new int[nums.length - k + 1];
-        for (int i = k - 1; i < nums.length; i++) {
-            int[] copy = freq.clone();
+        int [] freq1 = new int[51];
+        int [] ans = new int[nums.length-k+1];
+        for(int i =0; i<k; i++){
+            freq1[nums[i]]++;
+        }
+        int i = k-1;
+        while(i<nums.length){
             int sum = 0;
-            for (int j = 0; j < x; j++) {
-                int max = 0, idx = 0;
-                for (int p = 50; p >= 0; p--) {
-                    if (copy[p] > max) {
-                        max = copy[p];
-                        idx = p;
-                    }
-                }
-                if (max == 0) break;
-                sum += max * idx;
-                copy[idx] = 0;
+            int cnt = x;
+            int [] freq = freq1.clone();
+            while(cnt>0){
+             int max = 0;
+            int val =0;
+            for(int idx = 50; idx>=0; idx--){
+               if(freq[idx]>max){
+                max = freq[idx];
+                val = idx;
+               }
             }
-            ans[i - (k - 1)] = sum;
-            if (i + 1 == nums.length) continue;
-            freq[nums[i - (k - 1)]]--;
-            freq[nums[i + 1]]++;
+            sum += (max*val);
+            freq[val] = 0;
+            cnt--;
+            }
+          ans [i-k+1] = sum;
+          if(i+1<nums.length){
+            freq1[nums[i+1]]++;
+            freq1[nums[i-k+1]]--;
+          }
+          i++;
         }
         return ans;
     }
