@@ -1,107 +1,91 @@
 import java.util.*;
 
 class Solution {
-    int[] parent;
-    // Har component ke root par ek PriorityQueue (Min-Heap) store karenge.
-    PriorityQueue<Integer>[] pqs;
+
+    // Yeh map har node ko uske component ke PriorityQueue se map karega.
+    // Jaise, agar component {2, 5, 8} hai, toh:
+    // map[2] -> PQ{2, 5, 8}
+    // map[5] -> PQ{2, 5, 8}
+    // map[8] -> PQ{2, 5, 8}
+    // Isse humein kisi bhi node se uske component ka PQ mil jaayega.
+    PriorityQueue<Integer>[] nodeToComponentPQ;
 
     /**
-     * Standard DSU Find function with path compression.
+     * Yeh simple DFS hai.
+     * Yeh 'node' se start karta hai aur uske poore component ko explore karta hai.
+     * Saare nodes ko 'componentPQ' mein add kar deta hai.
+     * Aur 'nodeToComponentPQ' map ko update karta hai.
      */
-    private int find(int i) {
-        if (parent[i] == i) {
-            return i;
+    private void findComponent(int node, List<List<Integer>> adj, boolean[] visited, 
+                               PriorityQueue<Integer> componentPQ, 
+                               PriorityQueue<Integer>[] nodeToComponentPQ) {
+        
+        visited[node] = true;
+        componentPQ.add(node); // Node ko uske component ke PQ mein daalo
+        nodeToComponentPQ[node] = componentPQ; // Is node ko PQ se map karo
+
+        for (int neighbor : adj.get(node)) {
+            if (!visited[neighbor]) {
+                findComponent(neighbor, adj, visited, componentPQ, nodeToComponentPQ);
+            }
         }
-        return parent[i] = find(parent[i]);
     }
 
-    /**
-     * Custom DSU Union function.
-     * Yeh do components ko merge karta hai aur unki PriorityQueues ko bhi merge karta hai.
-     * Hamesha chhota PQ, bade PQ mein merge hoga efficiency ke liye.
-     */
-    private void union(int i, int j) {
-        int rootI = find(i);
-        int rootJ = find(j);
-        
-        if (rootI == rootJ) {
-            return; // Pehle se hi same component mein hain
-        }
-
-        // Ensure rootI hamesha bade size wala PQ ho
-        if (pqs[rootI].size() < pqs[rootJ].size()) {
-            int temp = rootI;
-            rootI = rootJ;
-            rootJ = temp;
-        }
-
-        // Chhote PQ (rootJ) ko bade PQ (rootI) mein merge karo
-        pqs[rootI].addAll(pqs[rootJ]);
-        
-        // DSU parent set karo
-        parent[rootJ] = rootI;
-        
-        // Chhote PQ ko clear kar sakte hain (optional, memory bachane ke liye)
-        // pqs[rootJ] = null; 
-    }
-
-    /**
-     * Tumhara original `solve` function is function se replace ho gaya hai.
-     * Yeh TLE nahi dega.
-     */
     public int[] processQueries(int c, int[][] connections, int[][] queries) {
-        // Tumhare original code mein nodes 0 se c tak the.
-        int numNodes = c + 1; 
-        
-        parent = new int[numNodes];
-        // PriorityQueue ka array initialize karna.
-        // Yeh line important hai: new PriorityQueue[numNodes];
-        pqs = (PriorityQueue<Integer>[]) new PriorityQueue[numNodes];
-
-        // Har node ko DSU mein initialize karo
-        for (int i = 0; i < numNodes; i++) {
-            parent[i] = i;
-            pqs[i] = new PriorityQueue<Integer>();
-            pqs[i].add(i); // Har node ki PQ mein shuru mein sirf woh khud hai
+        // 1. Graph Banao (Tumhara original code)
+        List<List<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i <= c; i++) {
+            adj.add(new ArrayList<>());
         }
-
-        // Graph build karo DSU ka use karke
         for (int[] conn : connections) {
-            union(conn[0], conn[1]);
+            adj.get(conn[0]).add(conn[1]);
+            adj.get(conn[1]).add(conn[0]);
         }
 
+        // 2. Components Find Karo (DFS + PQ)
+        int numNodes = c + 1;
+        nodeToComponentPQ = new PriorityQueue[numNodes];
+        boolean[] visited = new boolean[numNodes];
+
+        for (int i = 0; i <= c; i++) {
+            if (!visited[i]) {
+                // Ek naya component mila. Iske liye ek naya PQ banao.
+                PriorityQueue<Integer> currentComponentPQ = new PriorityQueue<>();
+                // Is component ke saare nodes find karo aur PQ mein daalo
+                findComponent(i, adj, visited, currentComponentPQ, nodeToComponentPQ);
+            }
+        }
+
+        // 3. Queries Process Karo
         List<Integer> ansList = new ArrayList<>();
-        Set<Integer> h1 = new HashSet<>(); // "Special" nodes (tumhara h1)
+        Set<Integer> h1 = new HashSet<>(); // Tumhara "special" set
 
         for (int[] query : queries) {
             int type = query[0];
             int b = query[1];
 
             if (type == 2) {
-                // Type 2: Node ko special set mein add karo
+                // Type 2: Node ko special banao
                 h1.add(b);
             } else {
                 // Type 1: Query
-                // Tumhara original special case
                 if (!h1.contains(b)) {
-                    ansList.add(b);
+                    ansList.add(b); // Node special nahi hai, answer woh khud hai
                 } else {
-                    // Node special hai, toh component ka smallest non-special find karo
-                    int rootB = find(b);
-                    PriorityQueue<Integer> componentPQ = pqs[rootB];
+                    // Node special hai. Uske component ka PQ nikalo.
+                    PriorityQueue<Integer> pq = nodeToComponentPQ[b];
 
                     // --- YEH HAI MAIN OPTIMIZATION ---
-                    // PQ ke top se unn sabhi nodes ko hatao jo ab 'h1' set mein hain.
-                    // Yeh 'lazily' hota hai, sirf query ke time.
-                    while (!componentPQ.isEmpty() && h1.contains(componentPQ.peek())) {
-                        componentPQ.poll(); // Smallest node special hai, use hatao
+                    // PQ ke top se unn sabhi nodes ko hatao jo 'h1' (special) set mein hain.
+                    while (!pq.isEmpty() && h1.contains(pq.peek())) {
+                        pq.poll(); // Yeh node special hai, isse ignore karo
                     }
 
                     // Ab jo top par hai, woh smallest *non-special* node hai
-                    if (componentPQ.isEmpty()) {
+                    if (pq.isEmpty()) {
                         ansList.add(-1); // Poora component special ban gaya
                     } else {
-                        ansList.add(componentPQ.peek()); // Answer mil gaya
+                        ansList.add(pq.peek()); // Answer mil gaya
                     }
                 }
             }
