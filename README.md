@@ -695,6 +695,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sagar97735/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sagar97735/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sagar97735/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sagar97735/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sagar97735/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sagar97735/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -843,6 +844,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sagar97735/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sagar97735/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sagar97735/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sagar97735/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sagar97735/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Sagar97735/LeetCode/tree/master/2481-strictly-palindromic-number) |
