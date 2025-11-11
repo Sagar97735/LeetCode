@@ -80,6 +80,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sagar97735/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sagar97735/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Sagar97735/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Sagar97735/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Sagar97735/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sagar97735/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -247,6 +248,7 @@
 | [0322-coin-change](https://github.com/Sagar97735/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Sagar97735/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Sagar97735/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sagar97735/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sagar97735/LeetCode/tree/master/0518-coin-change-ii) |
@@ -542,6 +544,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sagar97735/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Sagar97735/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Sagar97735/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sagar97735/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Sagar97735/LeetCode/tree/master/0649-dota2-senate) |
