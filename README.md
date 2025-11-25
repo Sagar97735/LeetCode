@@ -492,6 +492,7 @@
 | [0906-walking-robot-simulation](https://github.com/Sagar97735/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Sagar97735/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sagar97735/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sagar97735/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sagar97735/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -856,6 +857,7 @@
 | [0826-soup-servings](https://github.com/Sagar97735/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Sagar97735/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Sagar97735/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sagar97735/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Sagar97735/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sagar97735/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
