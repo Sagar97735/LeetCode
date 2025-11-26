@@ -159,6 +159,7 @@
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sagar97735/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Sagar97735/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Sagar97735/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -287,6 +288,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Sagar97735/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sagar97735/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sagar97735/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sagar97735/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Sagar97735/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagar97735/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sagar97735/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -700,6 +702,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sagar97735/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Sagar97735/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sagar97735/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sagar97735/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sagar97735/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/Sagar97735/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/Sagar97735/LeetCode/tree/master/2662-check-knight-tour-configuration) |
