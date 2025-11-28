@@ -371,6 +371,7 @@
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sagar97735/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Sagar97735/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Sagar97735/LeetCode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sagar97735/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -414,6 +415,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/Sagar97735/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2662-check-knight-tour-configuration](https://github.com/Sagar97735/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sagar97735/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sagar97735/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Sagar97735/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
