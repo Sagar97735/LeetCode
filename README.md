@@ -893,6 +893,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sagar97735/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sagar97735/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
+| [1925-count-square-sum-triples](https://github.com/Sagar97735/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sagar97735/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sagar97735/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sagar97735/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1124,6 +1125,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Sagar97735/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Sagar97735/LeetCode/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/Sagar97735/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sagar97735/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sagar97735/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sagar97735/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
