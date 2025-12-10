@@ -148,6 +148,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/Sagar97735/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sagar97735/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sagar97735/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Sagar97735/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sagar97735/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sagar97735/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sagar97735/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -790,6 +791,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Sagar97735/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sagar97735/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sagar97735/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Sagar97735/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sagar97735/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sagar97735/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Sagar97735/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
