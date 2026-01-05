@@ -143,6 +143,7 @@
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Sagar97735/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sagar97735/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
+| [1975-maximum-matrix-sum](https://github.com/Sagar97735/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sagar97735/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sagar97735/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sagar97735/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -726,6 +727,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sagar97735/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagar97735/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sagar97735/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1975-maximum-matrix-sum](https://github.com/Sagar97735/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sagar97735/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sagar97735/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sagar97735/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -860,6 +862,7 @@
 | [1448-maximum-69-number](https://github.com/Sagar97735/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sagar97735/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sagar97735/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1975-maximum-matrix-sum](https://github.com/Sagar97735/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sagar97735/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
