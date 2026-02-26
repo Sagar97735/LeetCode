@@ -407,6 +407,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sagar97735/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sagar97735/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Sagar97735/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -451,6 +452,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Sagar97735/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/Sagar97735/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sagar97735/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Sagar97735/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1066,6 +1068,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sagar97735/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Sagar97735/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0743-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -1103,6 +1106,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sagar97735/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Sagar97735/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -1224,4 +1228,5 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Sagar97735/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
