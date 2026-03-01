@@ -106,6 +106,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sagar97735/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Sagar97735/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sagar97735/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Sagar97735/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1018-largest-perimeter-triangle](https://github.com/Sagar97735/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sagar97735/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Sagar97735/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -523,6 +524,7 @@
 | [0940-fruit-into-baskets](https://github.com/Sagar97735/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sagar97735/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sagar97735/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/Sagar97735/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sagar97735/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1038-number-of-squareful-arrays](https://github.com/Sagar97735/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sagar97735/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1233,4 +1235,5 @@
 | [0210-course-schedule-ii](https://github.com/Sagar97735/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Sagar97735/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0997-find-the-town-judge](https://github.com/Sagar97735/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
