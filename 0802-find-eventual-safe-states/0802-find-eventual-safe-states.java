@@ -1,32 +1,38 @@
 class Solution {
 
-    public boolean solve(int[][] graph, int node, int[] state) {
+    public boolean dfs(int[][] graph, int node, boolean[] vis, boolean[] safe) {
 
-        if (state[node] != 0) {
-            return state[node] == 2;
-        }
+        // Agar already safe mark ho chuka hai
+        if (safe[node]) return true;
 
-        state[node] = 1; // visiting
+        // Agar currently recursion stack me hai → cycle
+        if (vis[node]) return false;
+
+        // Mark as visiting (recursion stack)
+        vis[node] = true;
 
         for (int neigh : graph[node]) {
-            if (!solve(graph, neigh, state)) {
+            if (!dfs(graph, neigh, vis, safe)) {
                 return false;
             }
         }
 
-        state[node] = 2; // safe
+        // Sab neighbours safe nikle
+        vis[node] = false;      // remove from recursion stack
+        safe[node] = true;      // mark as safe
         return true;
     }
 
     public List<Integer> eventualSafeNodes(int[][] graph) {
 
         int n = graph.length;
-        int[] state = new int[n];
+        boolean[] vis = new boolean[n];
+        boolean[] safe = new boolean[n];
 
         List<Integer> ans = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            if (solve(graph, i, state)) {
+            if (dfs(graph, i, vis, safe)) {
                 ans.add(i);
             }
         }
