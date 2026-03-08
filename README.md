@@ -145,6 +145,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sagar97735/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [1975-maximum-matrix-sum](https://github.com/Sagar97735/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Sagar97735/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sagar97735/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sagar97735/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sagar97735/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -540,6 +541,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Sagar97735/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sagar97735/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Sagar97735/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sagar97735/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sagar97735/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sagar97735/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -615,6 +617,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Sagar97735/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sagar97735/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sagar97735/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Sagar97735/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sagar97735/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sagar97735/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1064,6 +1067,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sagar97735/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1758-distribute-repeating-integers](https://github.com/Sagar97735/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sagar97735/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
+| [1980-find-unique-binary-string](https://github.com/Sagar97735/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sagar97735/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sagar97735/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sagar97735/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
