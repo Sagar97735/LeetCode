@@ -675,6 +675,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sagar97735/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sagar97735/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/Sagar97735/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sagar97735/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sagar97735/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Sagar97735/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
@@ -952,6 +953,7 @@
 | [3336-water-bottles-ii](https://github.com/Sagar97735/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sagar97735/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sagar97735/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sagar97735/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sagar97735/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sagar97735/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sagar97735/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
