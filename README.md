@@ -174,6 +174,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Sagar97735/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sagar97735/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sagar97735/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2498-frog-jump-ii](https://github.com/Sagar97735/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sagar97735/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sagar97735/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Sagar97735/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -828,6 +829,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Sagar97735/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Sagar97735/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sagar97735/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2498-frog-jump-ii](https://github.com/Sagar97735/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sagar97735/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Sagar97735/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Sagar97735/LeetCode/tree/master/2690-house-robber-iv) |
@@ -885,6 +887,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Sagar97735/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sagar97735/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sagar97735/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-frog-jump-ii](https://github.com/Sagar97735/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/Sagar97735/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Sagar97735/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sagar97735/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
