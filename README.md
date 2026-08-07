@@ -78,6 +78,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sagar97735/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Sagar97735/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/Sagar97735/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sagar97735/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Sagar97735/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -266,6 +267,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sagar97735/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Sagar97735/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/Sagar97735/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sagar97735/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sagar97735/LeetCode/tree/master/0494-target-sum) |
