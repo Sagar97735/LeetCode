@@ -1,22 +1,20 @@
 class Solution {
+    public int solve(List<List<Integer>> triangle, int i, int j,Integer [][] dp){
+        if(i>=triangle.size()){
+            return 0;
+        }
+        if(j>=triangle.get(i).size()){
+            return Integer.MAX_VALUE-10000;
+        }
+         if(dp[i][j]!= null){
+            return dp[i][j];
+         }
+        int c1 = triangle.get(i).get(j) + solve(triangle,i+1,j,dp);
+        int c2 = triangle.get(i).get(j) + solve(triangle,i+1,j+1,dp);
+        return dp[i][j] = Math.min(c1,c2);
+    }
     public int minimumTotal(List<List<Integer>> triangle) {
-        int n = triangle.size();
-        // dp array last row se start hoga
-        int[] dp = new int[n];
-        
-        // dp ko last row ke values se initialize karo
-        for (int i = 0; i < n; i++) {
-            dp[i] = triangle.get(n - 1).get(i);
-        }
-
-        // bottom-up: second-last row se upar jao
-        for (int row = n - 2; row >= 0; row--) {
-            for (int col = 0; col <= row; col++) {
-                dp[col] = triangle.get(row).get(col) + Math.min(dp[col], dp[col + 1]);
-            }
-        }
-
-        // top element minimum total hoga
-        return dp[0];
+        Integer[][] dp = new Integer[triangle.size()+1][triangle.size()+1];
+        return solve(triangle,0,0,dp);
     }
 }
