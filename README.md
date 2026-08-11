@@ -127,6 +127,7 @@
 | [1428-jump-game-iii](https://github.com/Sagar97735/LeetCode/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sagar97735/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sagar97735/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1463-cherry-pickup-ii](https://github.com/Sagar97735/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sagar97735/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagar97735/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sagar97735/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -292,6 +293,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sagar97735/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sagar97735/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sagar97735/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1463-cherry-pickup-ii](https://github.com/Sagar97735/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1511-count-number-of-teams](https://github.com/Sagar97735/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sagar97735/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sagar97735/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -746,6 +748,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Sagar97735/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Sagar97735/LeetCode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sagar97735/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1463-cherry-pickup-ii](https://github.com/Sagar97735/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagar97735/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sagar97735/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/Sagar97735/LeetCode/tree/master/1975-maximum-matrix-sum) |
