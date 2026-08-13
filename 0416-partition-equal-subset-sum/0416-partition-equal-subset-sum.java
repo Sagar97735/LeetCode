@@ -1,29 +1,45 @@
 class Solution {
-    public boolean find(int [] nums,int req,int sum,int i, Boolean [][] dp){
-        if(sum==req){
-            return true;
-        }
-        if(i>=nums.length || sum>req){
-            return false;
-        }
-        if(dp[sum][i]!=null){
-            return dp[sum][i];
-        }
-        boolean b1 = find(nums,req,sum+nums[i],i+1,dp);
-        boolean b2 = find(nums,req,sum,i+1,dp);
-        return dp[sum][i] = b1 || b2;
-    }
     public boolean canPartition(int[] nums) {
         int sum = 0;
-        
         for(int i =0; i<nums.length; i++){
           sum+=nums[i];
         }
         if(sum%2!=0){
             return false;
         }
-        int req = sum/2;
-        Boolean [][] dp = new Boolean[req+1][nums.length+1];
-        return find(nums,req,0,0,dp);
+        int target = sum/2;
+        boolean[][] dp = new boolean[nums.length + 1][target + 1];
+
+        // Target = 0 is always possible
+        for (int i = 0; i <= nums.length; i++) {
+            dp[i][0] = true;
+        }
+
+        // No elements -> cannot make positive target
+        for (int j = 1; j <= target; j++) {
+            dp[0][j] = false;
+        }
+
+        for (int i = 1; i <= nums.length; i++) {
+
+            for (int j = 1; j <= target; j++) {
+
+                if (nums[i - 1] > j) {
+
+                    // Cannot take current element
+                    dp[i][j] = dp[i - 1][j];
+
+                } else {
+
+                    // Take OR Not Take
+                    dp[i][j] =
+                        dp[i - 1][j] ||
+                        dp[i - 1][j - nums[i - 1]];
+                }
+            }
+        }
+
+        return dp[nums.length][target];
+
     }
 }
