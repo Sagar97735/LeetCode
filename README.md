@@ -1250,4 +1250,12 @@
 | [0743-network-delay-time](https://github.com/Sagar97735/LeetCode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Sagar97735/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Sagar97735/LeetCode/tree/master/0997-find-the-town-judge) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sagar97735/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
