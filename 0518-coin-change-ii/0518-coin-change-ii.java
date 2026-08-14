@@ -1,17 +1,27 @@
-class Solution {
-    public int change(int amount, int[] coins) {
-        int [][] dp = new int[coins.length+1][amount+1];
-        dp[0][0] =1;
-        for(int i =1; i<coins.length+1; i++){
-            for(int j =0; j<amount+1; j++){
-            if(coins[i-1]<=j){
-                dp[i][j] = dp[i][j-coins[i-1]] + dp[i-1][j];
-            }
-            else{
-                dp[i][j] = dp[i-1][j];
-            }
-            }
+class Solution { 
+    public int solve(int amount, int[] coins,int i,Integer [][] dp){
+     if(amount==0){
+        return 1;
+     }
+        if(i>=coins.length){
+            return 0;
         }
-        return dp[coins.length][amount];
+       if(dp[amount][i]!=null){
+        return dp[amount][i];
+       }
+        int c1 =0;
+        int c2 =0;
+        if(amount>=coins[i]){
+         c1 = solve(amount-coins[i],coins,i,dp);
+         c2 = solve(amount,coins,i+1,dp);
+        }
+        else{
+            c2 = solve(amount,coins,i+1,dp);
+        }
+        return dp[amount][i] = c1+c2;
+    }
+    public int change(int amount, int[] coins) {
+        Integer [][] dp = new Integer[amount+1][coins.length+1];
+        return solve(amount,coins,0,dp);
     }
 }
