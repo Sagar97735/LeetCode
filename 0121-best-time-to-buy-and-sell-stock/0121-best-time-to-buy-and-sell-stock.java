@@ -1,11 +1,19 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int min = Integer.MAX_VALUE;
-        int profit = 0;
+        int [] minm = new int[prices.length];
+        int ans = 0;
+        int maxm =0;
+        Arrays.fill(minm,Integer.MAX_VALUE);
         for(int i =0; i<prices.length; i++){
-            profit = Math.max(profit,prices[i]-min);
-            min = Math.min(min,prices[i]);
+            minm[i] = Math.min(minm[i],prices[i]);
+          
         }
-         return profit;
+         for(int i = prices.length-1; i>=0; i--){
+           maxm = Math.max(maxm,prices[i]);
+           ans = Math.max(maxm-minm[i],ans);
+          
+        }
+      
+        return ans;
     }
 }
