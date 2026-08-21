@@ -255,6 +255,7 @@
 | [0063-unique-paths-ii](https://github.com/Sagar97735/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sagar97735/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sagar97735/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Sagar97735/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sagar97735/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sagar97735/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Sagar97735/LeetCode/tree/master/0118-pascals-triangle) |
@@ -593,6 +594,7 @@
 | [0022-generate-parentheses](https://github.com/Sagar97735/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sagar97735/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sagar97735/LeetCode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Sagar97735/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sagar97735/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sagar97735/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Sagar97735/LeetCode/tree/master/0165-compare-version-numbers) |
