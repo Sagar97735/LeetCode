@@ -1298,4 +1298,8 @@
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Sagar97735/LeetCode/tree/master/1092-shortest-common-supersequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sagar97735/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
